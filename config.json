@@ -1,6 +1,6 @@
 {
 	"ip":"fallcartoon.aternos.me",
-	"port": "25565",
-	"name": "afkbot1",
+	"port": "25036",
+	"name": "Fall",
 	"auto-night-skip":"true"
 }
